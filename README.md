@@ -34,3 +34,7 @@ the purchase and sales info.
  
 * Supervisor also tracks the performance of the prisoners and on the 
 basis of their performance grades them . 
+## ER Diagram :
+![](ER_Diagram.jpg)
+## Relational Table :
+![](Relational%20Table.jpeg)
